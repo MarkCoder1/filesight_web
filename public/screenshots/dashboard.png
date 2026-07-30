@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs><linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#1a1a2e"/><stop offset="100%" stop-color="#0a0a0a"/></linearGradient></defs>
+  <rect width="1920" height="1080" fill="url(#bg)"/>
+  <text x="80" y="120" fill="#fafafa" font-family="system-ui,sans-serif" font-size="36" font-weight="700">Scan Results</text>
+  <text x="80" y="160" fill="#a1a1aa" font-family="system-ui,sans-serif" font-size="18">~/Downloads · 1,284 files scanned in 2.3s</text>
+  <rect x="80" y="200" width="1760" height="800" rx="16" fill="#141415" stroke="#27272a" stroke-width="1"/>
+  <rect x="120" y="240" width="300" height="120" rx="12" fill="#1a1a1a"/>
+  <text x="150" y="275" fill="#a1a1aa" font-family="system-ui,sans-serif" font-size="13">Total Files</text>
+  <text x="150" y="320" fill="#fafafa" font-family="system-ui,sans-serif" font-size="32" font-weight="700">1,284</text>
+  <rect x="440" y="240" width="300" height="120" rx="12" fill="#1a1a1a"/>
+  <text x="470" y="275" fill="#a1a1aa" font-family="system-ui,sans-serif" font-size="13">Duplicates</text>
+  <text x="470" y="320" fill="#ef4444" font-family="system-ui,sans-serif" font-size="32" font-weight="700">12</text>
+  <rect x="760" y="240" width="300" height="120" rx="12" fill="#1a1a1a"/>
+  <text x="790" y="275" fill="#a1a1aa" font-family="system-ui,sans-serif" font-size="13">Space Wasted</text>
+  <text x="790" y="320" fill="#eab308" font-family="system-ui,sans-serif" font-size="32" font-weight="700">48.2 MB</text>
+  <rect x="1080" y="240" width="300" height="120" rx="12" fill="#1a1a1a"/>
+  <text x="1110" y="275" fill="#a1a1aa" font-family="system-ui,sans-serif" font-size="13">Categories</text>
+  <text x="1110" y="320" fill="#22c55e" font-family="system-ui,sans-serif" font-size="32" font-weight="700">8</text>
+  <text x="120" y="420" fill="#fafafa" font-family="system-ui,sans-serif" font-size="20" font-weight="600">Files by Category</text>
+  <rect x="120" y="450" width="1720" height="40" rx="8" fill="#1a1a1a"/>
+  <text x="140" y="475" fill="#a1a1aa" font-family="system-ui,sans-serif" font-size="13">Category</text><text x="400" y="475" fill="#a1a1aa" font-family="system-ui,sans-serif" font-size="13">Count</text><text x="600" y="475" fill="#a1a1aa" font-family="system-ui,sans-serif" font-size="13">Size</text><text x="800" y="475" fill="#a1a1aa" font-family="system-ui,sans-serif" font-size="13">Actions</text>
+  <rect x="120" y="495" width="1720" height="40" rx="4" fill="none"/>
+  <text x="140" y="520" fill="#fafafa" font-family="system-ui,sans-serif" font-size="13">Images</text><text x="400" y="520" fill="#a1a1aa" font-family="system-ui,sans-serif" font-size="13">342</text><text x="600" y="520" fill="#a1a1aa" font-family="system-ui,sans-serif" font-size="13">124.5 MB</text>
+  <rect x="120" y="540" width="1720" height="40" rx="4" fill="#1a1a1a"/>
+  <text x="140" y="565" fill="#fafafa" font-family="system-ui,sans-serif" font-size="13">Documents</text><text x="400" y="565" fill="#a1a1aa" font-family="system-ui,sans-serif" font-size="13">215</text><text x="600" y="565" fill="#a1a1aa" font-family="system-ui,sans-serif" font-size="13">67.2 MB</text>
+  <rect x="120" y="585" width="1720" height="40" rx="4" fill="none"/>
+  <text x="140" y="610" fill="#fafafa" font-family="system-ui,sans-serif" font-size="13">Videos</text><text x="400" y="610" fill="#a1a1aa" font-family="system-ui,sans-serif" font-size="13">48</text><text x="600" y="610" fill="#a1a1aa" font-family="system-ui,sans-serif" font-size="13">892.1 MB</text>
+  <rect x="120" y="630" width="1720" height="40" rx="4" fill="#1a1a1a"/>
+  <text x="140" y="655" fill="#fafafa" font-family="system-ui,sans-serif" font-size="13">Audio</text><text x="400" y="655" fill="#a1a1aa" font-family="system-ui,sans-serif" font-size="13">126</text><text x="600" y="655" fill="#a1a1aa" font-family="system-ui,sans-serif" font-size="13">456.3 MB</text>
+  <rect x="120" y="675" width="1720" height="40" rx="4" fill="none"/>
+  <text x="140" y="700" fill="#fafafa" font-family="system-ui,sans-serif" font-size="13">Archives</text><text x="400" y="700" fill="#a1a1aa" font-family="system-ui,sans-serif" font-size="13">32</text><text x="600" y="700" fill="#a1a1aa" font-family="system-ui,sans-serif" font-size="13">234.0 MB</text>
+</svg>

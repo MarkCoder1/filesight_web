@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs><linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#1a1a2e"/><stop offset="100%" stop-color="#0a0a0a"/></linearGradient></defs>
+  <rect width="1920" height="1080" fill="url(#bg)"/>
+  <text x="80" y="120" fill="#fafafa" font-family="system-ui,sans-serif" font-size="36" font-weight="700">Scan History</text>
+  <text x="80" y="160" fill="#a1a1aa" font-family="system-ui,sans-serif" font-size="18">Track changes over time</text>
+  <rect x="80" y="200" width="1760" height="800" rx="16" fill="#141415" stroke="#27272a" stroke-width="1"/>
+  <rect x="120" y="250" width="800" height="60" rx="8" fill="#1a1a1a"/>
+  <text x="150" y="278" fill="#fafafa" font-family="system-ui,sans-serif" font-size="15" font-weight="500">Today at 2:30 PM</text>
+  <text x="150" y="296" fill="#a1a1aa" font-family="system-ui,sans-serif" font-size="12">~/Downloads · 1,284 files · 12 duplicates · 2.3s</text>
+  <rect x="120" y="325" width="800" height="60" rx="8" fill="#1a1a1a"/>
+  <text x="150" y="353" fill="#fafafa" font-family="system-ui,sans-serif" font-size="15" font-weight="500">Yesterday at 10:15 AM</text>
+  <text x="150" y="371" fill="#a1a1aa" font-family="system-ui,sans-serif" font-size="12">~/Documents · 892 files · 3 duplicates · 1.8s</text>
+  <rect x="120" y="400" width="800" height="60" rx="8" fill="#1a1a1a"/>
+  <text x="150" y="428" fill="#fafafa" font-family="system-ui,sans-serif" font-size="15" font-weight="500">Jul 28, 2026 at 4:45 PM</text>
+  <text x="150" y="446" fill="#a1a1aa" font-family="system-ui,sans-serif" font-size="12">~/Desktop · 156 files · 0 duplicates · 0.4s</text>
+  <rect x="120" y="475" width="800" height="60" rx="8" fill="#1a1a1a"/>
+  <text x="150" y="503" fill="#fafafa" font-family="system-ui,sans-serif" font-size="15" font-weight="500">Jul 25, 2026 at 9:00 AM</text>
+  <text x="150" y="521" fill="#a1a1aa" font-family="system-ui,sans-serif" font-size="12">/Volumes/Backup · 24,561 files · 342 duplicates · 12.7s</text>
+</svg>
