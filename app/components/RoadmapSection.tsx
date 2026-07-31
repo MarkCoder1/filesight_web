@@ -12,16 +12,10 @@ const roadmap = [
     date: 'v1.0 — Now',
   },
   {
-    status: 'progress',
+    status: 'done',
     icon: Monitor,
     title: 'Windows App',
-    date: 'v1.1 — Coming Soon',
-  },
-  {
-    status: 'progress',
-    icon: Monitor,
-    title: 'Linux App',
-    date: 'v1.2 — In Development',
+    date: 'v1.1 — Released',
   },
   {
     status: 'upcoming',

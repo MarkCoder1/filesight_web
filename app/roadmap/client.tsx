@@ -19,21 +19,12 @@ const releases = [
     ],
   },
   {
-    version: 'v1.1 — Coming Soon',
+    version: 'v1.1 — Released',
     title: 'Windows Support',
     items: [
-      { icon: Monitor, label: 'Windows native build', done: false },
-      { icon: Monitor, label: 'File Explorer integration', done: false },
-      { icon: Monitor, label: 'Windows-specific optimizations', done: false },
-    ],
-  },
-  {
-    version: 'v1.2 — In Development',
-    title: 'Linux Support',
-    items: [
-      { icon: Code2, label: 'Linux native build', done: false },
-      { icon: Code2, label: 'GNOME/KDE integration', done: false },
-      { icon: Code2, label: 'AppImage, Snap, Flatpak packages', done: false },
+      { icon: CheckCircle, label: 'Windows native build', done: true },
+      { icon: CheckCircle, label: 'File Explorer integration', done: true },
+      { icon: CheckCircle, label: 'Windows-specific optimizations', done: true },
     ],
   },
   {

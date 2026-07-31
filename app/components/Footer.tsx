@@ -14,16 +14,16 @@ const footerLinks = [
   {
     title: 'Resources',
     links: [
-      { label: 'Documentation', href: '#' },
-      { label: 'Release Notes', href: '#' },
+      { label: 'Documentation', href: 'https://github.com/MarkCoder1/filesight/blob/main/docs/INSTALLATION.md' },
+      { label: 'Release Notes', href: 'https://github.com/MarkCoder1/filesight/releases/tag/v1.0.0' },
       { label: 'FAQ', href: '/#faq' },
     ],
   },
   {
     title: 'Community',
     links: [
-      { label: 'GitHub', href: 'https://github.com' },
-      { label: 'Issues', href: 'https://github.com' },
+      { label: 'GitHub', href: 'https://github.com/MarkCoder1/filesight' },
+      { label: 'Issues', href: 'https://github.com/MarkCoder1/filesight/issues' },
       { label: 'Discussions', href: 'https://github.com' },
     ],
   },
@@ -100,7 +100,7 @@ export default function Footer() {
             <Link href="/privacy" className="hover:text-foreground transition-colors">
               Privacy
             </Link>
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="hover:text-foreground transition-colors">
+            <a href="https://github.com/MarkCoder1/filesight/blob/main/LICENSE" target="_blank" rel="noopener noreferrer" className="hover:text-foreground transition-colors">
               License
             </a>
           </div>

@@ -70,13 +70,10 @@ export default function DownloadSection() {
             </div>
 
             <div className="mt-6 pt-6 border-t border-white/[0.06]">
-              <p className="text-sm text-muted mb-3">Other platforms</p>
+              <p className="text-sm text-muted mb-3">Also available on</p>
               <div className="flex items-center gap-3">
-                <span className="flex-1 px-4 py-2.5 text-sm text-muted rounded-xl bg-white/[0.04] border border-white/[0.06] text-center cursor-not-allowed opacity-50">
-                  Windows (Coming Soon)
-                </span>
-                <span className="flex-1 px-4 py-2.5 text-sm text-muted rounded-xl bg-white/[0.04] border border-white/[0.06] text-center cursor-not-allowed opacity-50">
-                  Linux (Coming Soon)
+                <span className="flex-1 px-4 py-2.5 text-sm text-muted rounded-xl bg-white/[0.04] border border-white/[0.06] text-center">
+                  Windows 1.0.0 ARM64 (.exe)
                 </span>
               </div>
             </div>

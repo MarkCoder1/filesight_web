@@ -94,7 +94,7 @@ export default function Hero() {
                 <span className="relative z-10">Download FileSight</span>
               </Link>
               <a
-                href="https://github.com"
+                href="https://github.com/MarkCoder1/filesight"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group inline-flex items-center gap-2.5 px-8 py-4 text-base font-medium rounded-2xl glass glass-hover transition-all"

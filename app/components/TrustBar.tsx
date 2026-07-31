@@ -9,7 +9,7 @@ const trusts = [
   { icon: Cpu, label: 'Runs Locally' },
   { icon: Zap, label: 'Fast Scanning' },
   { icon: Monitor, label: 'Modern Desktop App' },
-  { icon: Globe, label: 'Cross-platform' },
+  { icon: Globe, label: 'macOS & Windows' },
 ]
 
 export default function TrustBar() {

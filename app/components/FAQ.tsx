@@ -35,7 +35,7 @@ const faqs = [
   },
   {
     q: 'Which platforms are supported?',
-    a: 'FileSight is currently available on macOS. Windows and Linux support are actively in development.',
+    a: 'FileSight is currently available on macOS and Windows.',
   },
 ]
 
