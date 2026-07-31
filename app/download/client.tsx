@@ -4,6 +4,7 @@ import { motion } from 'framer-motion'
 import { Download, Apple, FileText, ChevronRight, Star, Shield, Cpu, Zap, CheckCircle } from 'lucide-react'
 import Link from 'next/link'
 
+
 const stats = [
   { icon: Star, label: 'Open Source', description: 'MIT License' },
   { icon: Shield, label: 'Privacy First', description: 'No data leaves your device' },
@@ -52,7 +53,8 @@ export default function DownloadPageClient() {
               </div>
 
               <Link
-                href="#"
+                download
+                href="/files/FileSight-1.0.0-arm64.dmg"
                 className="group relative flex items-center justify-center gap-3 w-full py-4 text-base font-medium rounded-2xl bg-primary text-primary-foreground overflow-hidden transition-all hover:shadow-[0_0_30px_rgba(168,85,247,0.4)] mb-4"
               >
                 <span className="absolute inset-0 bg-gradient-to-r from-purple-600 to-blue-600 opacity-0 group-hover:opacity-100 transition-opacity" />
@@ -85,7 +87,9 @@ export default function DownloadPageClient() {
                 <div className="flex items-center gap-3">
 
                   <Link
-                    href="/"
+                    download
+                    href="/files/FileSight-1.0.0-arm64.exe"
+
                     className="flex-1 px-4 py-3 text-sm text-muted rounded-xl bg-white/[0.04] border border-white/[0.06] text-center transition-all duration-200 hover:bg-gradient-to-r hover:from-purple-600 hover:to-blue-600 hover:text-white hover:border-transparent"
                   >
                     Windows 1.0.0 ARM64 (.exe)
