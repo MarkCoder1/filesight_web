@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+# Application installers
+public/files/*.dmg
+public/files/*.exe
